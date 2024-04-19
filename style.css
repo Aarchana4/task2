@@ -1,0 +1,67 @@
+
+body
+    {
+     background-color: rgb(248, 103, 45);
+     /*font-size: 30px;*/
+}
+
+.head 
+    {
+        color: darkblue;
+}
+
+#bglime    {
+        background-color: lime;
+    }
+
+mark   
+    {
+        color:red;
+        background-color: lime;
+
+      
+}
+
+p   
+    {
+    color: white;
+}
+
+#para
+    {
+        color: green;
+    }
+    
+
+.p1 
+    {
+        color:black;
+        background-color: rgb(248, 103, 45);
+        font-size: 19px;
+    }
+
+ul {
+    color : white;
+}
+
+mark
+    {
+        color : blue;
+        background-color:yellow;
+    }
+
+
+span[data-highlight="true"] 
+        {
+        color :blue;
+        background-color: blueviolet;
+    }
+
+
+div    {
+        color :blue;
+    }
+
+div1    {
+        color :rgb(233, 5, 5);
+}
